@@ -1,0 +1,1 @@
+const ASSET_URL = 'https://cdn.jsdelivr.net/gh/kdhanush/zarah-images/assets/'
